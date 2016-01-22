@@ -3,5 +3,5 @@
 * SQA
 * Quality
 * Test
-* QA
+* Q&A
 [Kiryl Voitau](http://sqa.com)
