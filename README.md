@@ -1,2 +1,7 @@
-# simple-greeting2
-Application which simply greets the user
+# simple-greeting
+###Application which simply greets the user
+* SQA
+* Quality
+* Test
+
+[Kiryl Voitau](http://sqa.com)
