@@ -4,4 +4,5 @@
 * Quality
 * Test
 * Q&A
-[Kiryl Voitau](http://sqa.com)
+
+[Kiryl Voitau](http://sqasolution.com)
